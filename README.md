@@ -1,0 +1,1 @@
+This project queries a periodic table database through a Bash script. The user can look up an element by its atomic number, symbol, or name and retrieve key properties such as atomic mass, melting point, boiling point, and element type. The database has been cleaned, normalized, and structured following SQL best practices.
